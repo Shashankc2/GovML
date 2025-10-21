@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# Optional: local data files
+data/*.csv
